@@ -8,7 +8,7 @@ const numberOfParticles = 100;
 let particlesArray = [];
 
 const image = new Image();
-image.src = "assets/img/css_sprites.png";
+image.src = "ui/assets/img/css_sprites.png";
 
 // Logic
 class Particle {
